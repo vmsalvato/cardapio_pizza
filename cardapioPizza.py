@@ -3,6 +3,7 @@ import sys
 item = {}
 opcao = ()
 busca = ()
+cardapio = []
 
 def exibe_menu():
     print('-' * 5)
